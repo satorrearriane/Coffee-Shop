@@ -1,0 +1,33 @@
+body {
+  background-image:url(final\ background.jpg);
+}
+img{
+  float:left;
+}
+h2{
+  font-family: 'Georgia';
+  text-align: center;
+  font-size: 60px;
+}
+li{
+  list-style-type: none;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: 25px;
+}
+
+p .class{
+  font-family: 'Monaco';
+}
+
+div .price{
+  margin: auto;
+  float: left;
+}
+div .option{
+  margin: auto;
+  float: right;
+}
